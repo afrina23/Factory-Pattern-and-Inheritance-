@@ -1,2 +1,2 @@
-# tabassum
-:/
+1.Factory Pattern
+
